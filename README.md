@@ -14,7 +14,7 @@
 [![Performance](https://img.shields.io/badge/Performance-Optimized-red.svg?style=for-the-badge&logo=lightning&logoColor=white)](https://github.com/dineth/nvdya-kit)
 [![Downloads](https://img.shields.io/badge/downloads-0+-purple.svg?style=for-the-badge&logo=download&logoColor=white)](https://github.com/dineth/nvdya-kit)
 
-**🌟 Join 10,000+ ML Engineers Using Nvdya Kit! 🌟**
+**🌟 Join  0+ ML Engineers Using Nvdya Kit! 🌟**
 
 </div>
 
