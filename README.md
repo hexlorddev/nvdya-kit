@@ -12,7 +12,7 @@
 [![Python](https://img.shields.io/badge/python-3.8+-yellow.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![GPU](https://img.shields.io/badge/CUDA-Enabled-green.svg?style=for-the-badge&logo=nvidia&logoColor=white)](https://nvidia.com/cuda)
 [![Performance](https://img.shields.io/badge/Performance-Optimized-red.svg?style=for-the-badge&logo=lightning&logoColor=white)](https://github.com/dineth/nvdya-kit)
-[![Downloads](https://img.shields.io/badge/downloads-100K+-purple.svg?style=for-the-badge&logo=download&logoColor=white)](https://github.com/dineth/nvdya-kit)
+[![Downloads](https://img.shields.io/badge/downloads-0+-purple.svg?style=for-the-badge&logo=download&logoColor=white)](https://github.com/dineth/nvdya-kit)
 
 **🌟 Join 10,000+ ML Engineers Using Nvdya Kit! 🌟**
 
